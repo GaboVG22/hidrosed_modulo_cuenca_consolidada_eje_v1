@@ -1,0 +1,7 @@
+streamlit>=1.30
+numpy
+pandas
+shapely
+pyproj
+matplotlib
+openpyxl
